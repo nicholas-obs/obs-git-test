@@ -18,6 +18,7 @@ end
 
 welcome()
 add()
+division()
 
 puts "Nagaraj C"
 puts "test123"
