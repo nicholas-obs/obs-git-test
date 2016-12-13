@@ -12,6 +12,10 @@ def add()
     puts 'addition'
 end
 
+def division()
+    puts 'division'
+end
+
 welcome()
 add()
 
