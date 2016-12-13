@@ -9,8 +9,6 @@ def welcome()
 end
 
 welcome()
-=======
-
 puts "Nagaraj C"
 puts "test123"
 
